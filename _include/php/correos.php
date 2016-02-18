@@ -7,7 +7,7 @@ $server_name = "mail.ahoratabasco.com";
 $person_name = "NEW GLOBAR MARKETING";
 
 # Indicamos la dirección de correo de esa persona
-$person_email ="sistemas@ahoratabasco.com";
+$person_email ="agutierrez@newglobalmkt.com";
 
 # Las tres líneas que vienen a continuación son necesarias
 # para que la cabecera del mensaje esté en formato HTML
